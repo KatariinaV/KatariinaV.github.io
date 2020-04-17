@@ -1,12 +1,11 @@
 body {
-    background-image: url("");
     background-color:#0D1778;
     }
 
 .title
 {
     text-align: center;
-    color: #1100ff;
+    color: #03cffc;
     font-family: 'Maitree', serif;
     font-size: 44px;
     border: 5px dotted #1E2174;  
